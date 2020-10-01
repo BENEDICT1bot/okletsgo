@@ -1,6 +1,6 @@
 # okletsgo
 
-Installation 
+Installation Process
 ---
 1 - Install Derby
 2 - Run the application on server
